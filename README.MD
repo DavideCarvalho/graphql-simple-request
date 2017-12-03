@@ -21,22 +21,17 @@ Now you only need to invoke this function passing 2 arguments
 ```
 const url = 'localhost:3000/graphql';
 const query = `
-  query($login: LoginInput) {
-    login(login: $login) {
+  query($id: Int) {
+    getPerson(id: $id) {
       person {
-        cid
+        id
         name
-        isAdmin
       }
-      authentication
     }
   }
 `;
 const variables = {
-  login: {
-    cid,
-    password
-  }
+  id: 10
 };
 const response = await gsr(url, query, variables)
 ```
