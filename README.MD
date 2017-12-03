@@ -7,10 +7,10 @@ This package is as simple as it's name is saying! You only need 4 variables to m
 The only thing you need to do is import this package into your application
 
 ## NodeJS
-```const sgq = require('simple-graphql-client')```
+```const gsr = require('simple-graphql-client')```
 
 ## Babel
-```import sgq from 'simple-graphql-client'```
+```import gsr from 'simple-graphql-client'```
 
 Now you only need to invoke this function passing 2 arguments
 - URL
@@ -38,7 +38,7 @@ const variables = {
     password
   }
 };
-const response = await graphqlRequest(url, query, variables)
+const response = await gsr(url, query, variables)
 ```
 
 This package will return the response object back to you, so you'll be able to get additional information, like headers, status code, config, etc...

@@ -1,5 +1,5 @@
 {
-  "name": "simple-graphql-client",
+  "name": "graphql-simple-request",
   "version": "1.0.0",
   "description": "A lightweight package made to help people to make graphql requests",
   "main": "index.js",
