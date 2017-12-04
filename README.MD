@@ -14,12 +14,12 @@ The only thing you need to do is import this package into your application
 
 ## NodeJS
 ```js
-const gsr = require('simple-graphql-client')
+const gsr = require('graphql-simple-request')
 ```
 
 ## Babel
 ```js
-import gsr from 'simple-graphql-client'
+import gsr from 'graphql-simple-request'
 ```
 
 Now you only need to invoke this function passing 2 arguments
