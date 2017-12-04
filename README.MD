@@ -1,6 +1,6 @@
 <p>
-    <a href="https://www.npmjs.com/package/simple-graphql-client"><img src="https://img.shields.io/npm/v/simple-graphql-client.svg?maxAge=3600" alt="NPM version" /></a>
-    <a href="https://www.npmjs.com/package/simple-graphql-client"><img src="https://img.shields.io/npm/dt/simple-graphql-client.svg?maxAge=3600" alt="NPM downloads" /></a>
+    <a href="https://www.npmjs.com/package/graphql-simple-request"><img src="https://img.shields.io/npm/v/graphql-simple-request.svg?maxAge=3600" alt="NPM version" /></a>
+    <a href="https://www.npmjs.com/package/graphql-simple-request"><img src="https://img.shields.io/npm/dt/graphql-simple-request.svg?maxAge=3600" alt="NPM downloads" /></a>
 </p>
 
 
