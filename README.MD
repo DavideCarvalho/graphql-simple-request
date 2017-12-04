@@ -7,10 +7,14 @@ This package is as simple as it's name is saying! You only need 4 variables to m
 The only thing you need to do is import this package into your application
 
 ## NodeJS
-```const gsr = require('simple-graphql-client')```
+```js
+const gsr = require('simple-graphql-client')
+```
 
 ## Babel
-```import gsr from 'simple-graphql-client'```
+```js
+import gsr from 'simple-graphql-client'
+```
 
 Now you only need to invoke this function passing 2 arguments
 - URL
@@ -18,7 +22,7 @@ Now you only need to invoke this function passing 2 arguments
 - (OPTIONAL!) Variables (As json)
 - (OPTIONAL!) headers (As json)
 
-```
+```js
 const url = 'localhost:3000/graphql';
 const query = `
   query($id: Int) {
