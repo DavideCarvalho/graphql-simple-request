@@ -4,7 +4,7 @@
 </p>
 
 
-# SIMPLE GRAPHQL REQUEST
+# GRAPHQL SIMPLE REQUEST
 
 > A package made to make graphql requests simple
 
