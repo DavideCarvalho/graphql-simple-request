@@ -1,6 +1,6 @@
 {
   "name": "graphql-simple-request",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A lightweight package made to help people to make graphql requests",
   "main": "index.js",
   "scripts": {
