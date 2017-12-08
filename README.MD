@@ -52,4 +52,4 @@ This package will return the response object back to you, so you'll be able to g
 Because graphql clients are too hard to use. I've found some clients easy to use (like simple-graphql-client), but this package only gives me back the response data, so I was unnable to get aditional information from the request.
 
 # Upgrades on this package?
-I'll try to improve this package once in a while, but pull requests are always welcome (and please, open issues with your ploblems/feedback)
+I'll try to improve this package once in a while, but pull requests are always welcome (and please, open issues with your problems/feedbacks)
